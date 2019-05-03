@@ -1,0 +1,15 @@
+#card-principal {
+    margin: 10px auto 0px auto;
+}
+
+.imcAviso {
+    border: solid 1px;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 10px auto 5px;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgreen;
+    color: white;
+}
+
